@@ -5,6 +5,16 @@ After each guess, you'll receive color clues indicated by the text color of each
 
 ---
 
+## Background of the Software
+
+STIrdle was created to please the if-else-if gods. We needed to repent for our programming sins. 
+We vibe-coded it anyways soooo...we're still going to hell anyway. In Linus name, we pray for our salvation! 
+In all seriousness, we coded this as a school project solely for our grades. 
+We just had an idea to combine the Hangman game and Wordle and thought that it would be innovative 
+(it was not, it's literally just a lives counter).
+
+---
+
 ## About the Title
 
 The title **"STIrdle"** can mean two things:
@@ -15,11 +25,6 @@ The title **"STIrdle"** can mean two things:
 
 ## How to Play
 
-1. **Open the project in Visual Studio** (version 2022 or later is recommended).  
-2. Go to **Settings → System → For developers → Terminal**.  
-   - Change the terminal to **Windows Console Host** (instead of the default *Windows Terminal*).  
-   - This step is necessary to fix the *unresizable window* issue.  
-3. **Open and build** the program.  
 4. Choose from the main menu:
    - Press **1** – Start the game  
    - Press **2** – Get some help  
@@ -37,11 +42,11 @@ Guess the correct **5-letter technology-related word** within **6 tries** based 
 
 ---
 
-## Background of the Software
+## Build
+1. **Open the project in a C# IDE or compiler of your choice** (We used Visual Studio 2022 specifically for this game).  
+2. Go to **Settings → System → For developers → Terminal**.  
+   - Change the terminal to **Windows Console Host** (instead of the default *Windows Terminal*).  
+   - This step is necessary to fix the *unresizable window* issue.  
+3. **Open and build** the program.  
 
-STIrdle was created to please the if-else-if gods. We needed to repent for our programming sins. 
-We vibe-coded it anyways soooo...we're still going to hell anyway. In Linus name, we pray for our salvation! 
-In all seriousness, we coded this as a school project solely for our grades. 
-We just had an idea to combine the Hangman game and Wordle and thought that it would be innovative 
-(it was not, it's literally just a lives counter).
 
