@@ -24,7 +24,11 @@ The title **"STIrdle"** can mean two things:
 ---
 
 ## How to Play
-
+1. Download the game in here: [STIrdle](https://github.com/jemerii/STIrdle/releases). Then, unzip the zip file if you downloaded the entire source code (what a nerd) or open the .exe file in your Downloads folder.
+2. Go to **Settings → System → For developers → Terminal**.  
+   - Change the terminal to **Windows Console Host** (instead of the default *Windows Terminal*).  
+   - This step is necessary to fix the *unresizable window* issue.
+3. Open STIrdle.exe
 4. Choose from the main menu:
    - Press **1** – Start the game  
    - Press **2** – Get some help  
@@ -47,6 +51,6 @@ Guess the correct **5-letter technology-related word** within **6 tries** based 
 2. Go to **Settings → System → For developers → Terminal**.  
    - Change the terminal to **Windows Console Host** (instead of the default *Windows Terminal*).  
    - This step is necessary to fix the *unresizable window* issue.  
-3. **Open and build** the program.  
+3. **Open and build** the program. Feel free to not change the source code for your own safety (we don't understand the code as well).
 
 
