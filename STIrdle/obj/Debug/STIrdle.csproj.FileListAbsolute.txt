@@ -1,0 +1,8 @@
+C:\Users\Jeremy\source\repos\STIrdle\STIrdle\bin\Debug\STIrdle.exe.config
+C:\Users\Jeremy\source\repos\STIrdle\STIrdle\bin\Debug\STIrdle.exe
+C:\Users\Jeremy\source\repos\STIrdle\STIrdle\bin\Debug\STIrdle.pdb
+C:\Users\Jeremy\source\repos\STIrdle\STIrdle\obj\Debug\STIrdle.csproj.AssemblyReference.cache
+C:\Users\Jeremy\source\repos\STIrdle\STIrdle\obj\Debug\STIrdle.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\STIrdle\STIrdle\obj\Debug\STIrdle.exe
+C:\Users\Jeremy\source\repos\STIrdle\STIrdle\obj\Debug\STIrdle.pdb
+C:\Users\Jeremy\source\repos\STIrdle\STIrdle\obj\Debug\STIrdle.exe.config
