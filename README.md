@@ -22,12 +22,12 @@ The title **"STIrdle"** can mean two things:
 2. It may also mean **Stickman and Wordle**, as the game combines elements of **Hangman** and **Wordle**.
 
 This application was made by two mentlegen from **ITMAWD 12A**:
-1. ALVARAN, Steffano Andrei J.
-2. BARRERA, Jeremy Charle R.
+- ALVARAN, Steffano Andrei J.
+- BARRERA, Jeremy Charle R.
 
-..and two of our non-STI friends who helped our throughout our journery:
-3. @acquiescentmind
-4. @siritoriyowaifan3470
+..and two of our **non-STI friends** who helped our throughout our journey:
+- @acquiesentmind
+- @siritoriyowaifan3470
 
 ---
 
