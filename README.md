@@ -15,11 +15,19 @@ We just had an idea to combine the Hangman game and Wordle and thought that it w
 
 ---
 
-## About the Title
+## About the Software
 
 The title **"STIrdle"** can mean two things:
-1. It may mean **STI and Wordle**, a version of Wordle made by a group of **STI Senior High School students**.  
+1. It may mean **STI and Wordle**, a version of Wordle made by a group of **STI College Malolos Senior High School students**.  
 2. It may also mean **Stickman and Wordle**, as the game combines elements of **Hangman** and **Wordle**.
+
+This application was made by two mentlegen from **ITMAWD 12A**:
+1. ALVARAN, Steffano Andrei J.
+2. BARRERA, Jeremy Charle R.
+
+..and two of our non-STI friends who helped our throughout our journery:
+3. @acquiescentmind
+4. @siritoriyowaifan3470
 
 ---
 
