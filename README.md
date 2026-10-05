@@ -25,7 +25,7 @@ This application was made by two mentlegen from **ITMAWD 12A**:
 - ALVARAN, Steffano Andrei J.
 - BARRERA, Jeremy Charle R.
 
-..and two of our **non-STI friends** who helped our throughout our journey:
+...and two of our **non-STI friends** who helped throughout our journey:
 - @acquiescentmind
 - @siritoriyowaifan3470
 
