@@ -26,7 +26,7 @@ This application was made by two mentlegen from **ITMAWD 12A**:
 - BARRERA, Jeremy Charle R.
 
 ..and two of our **non-STI friends** who helped our throughout our journey:
-- @acquiesentmind
+- @acquiescentmind
 - @siritoriyowaifan3470
 
 ---
